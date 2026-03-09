@@ -1,0 +1,8 @@
+{
+  "name": "WhatsApp Marketing Automator",
+  "description": "A full-stack WhatsApp marketing tool for bulk messaging, contact verification, and lead management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
